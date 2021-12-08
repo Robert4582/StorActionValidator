@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ActionValidator.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ActionValidator.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ActionValidator.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ActionValidator.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ActionValidator.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ref\ActionValidator.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\bin\Debug\net5.0\ActionValidator.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ref\ActionValidator.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ActionValidator\ActionValidator\obj\Debug\net5.0\ActionValidator.genruntimeconfig.cache
